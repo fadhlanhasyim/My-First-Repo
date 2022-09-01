@@ -4,4 +4,4 @@ NPM     : 2106652215
 
 Kelas   : F
 
-Hobi    : Ngoding
+Hobi    : Tidur
